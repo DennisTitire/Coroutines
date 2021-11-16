@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Coroutines</string>
+    <string name="start">start</string>
+    <string name="finish">finish</string>
+</resources>
